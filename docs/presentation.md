@@ -116,3 +116,4 @@ Industry Segments:               AstraRoute Connects Them:
 
 > *"We don’t claim to invent the individual capabilities. We connect them into a request-level closed loop where AI economics directly influence execution decisions."*  
 > **AstraRoute AI — Optimize the cost of achieving a verified AI outcome.**
+
