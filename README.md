@@ -2,7 +2,15 @@
 
 **TCS AI Hackathon — Challenge 05: Autonomous AI FinOps & Intelligent Model Routing**  
 **Domain:** AI Economics / FinOps  
-**Team / Implementation:** Senior Full-Stack & AI Systems Architecture
+**Team:** Team MindX
+
+[![Presentation Deck](https://img.shields.io/badge/Presentation-PDF%20Deck-205B43?style=for-the-badge&logo=adobeacrobatreader)](docs/AstraRoute_AI_Presentation.pdf)
+[![Markdown Deck](https://img.shields.io/badge/Slides-Markdown%20Overview-174A35?style=for-the-badge&logo=markdown)](docs/presentation.md)
+
+> 📄 **Presentation Links:**
+> - **[View Presentation Deck (PDF)](docs/AstraRoute_AI_Presentation.pdf)**
+> - **[View Presentation Slides (Online Markdown View)](docs/presentation.md)**
+> - **[Direct Download / Raw PDF](https://raw.githubusercontent.com/Aswanth-18/TCS-Hack/main/docs/AstraRoute_AI_Presentation.pdf)**
 
 ---
 
